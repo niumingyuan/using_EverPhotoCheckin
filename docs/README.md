@@ -5,8 +5,7 @@
 ![demo](imgs/checkin.png)
 
 ## 食用指南
-
-**首先，Fork本项目到自己的仓库。**
+  的仓库。**
 
 ![Fork repository](imgs/fork.png)
 
